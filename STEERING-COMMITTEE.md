@@ -4,8 +4,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
-| [Steering Committee Member] | [handle ] | [affiliation] |
-|  ... | ... | ... |
+| Harsha Nori | [Harsha-Nori](https://github.com/Harsha-Nori) | Microsoft |
 
 ---
 Part of MVG-0.1-beta.
