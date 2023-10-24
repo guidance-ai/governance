@@ -7,6 +7,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Ece Kamar | [ecekamar](https://github.com/ecekamar) | Microsoft |
 | Harsha Nori | [Harsha-Nori](https://github.com/Harsha-Nori) | Microsoft |
 | Scott Lundberg | [slundberg](https://github.com/slundberg) | |
+| Marco Tulio Ribeiro | [marcotcr](https://github.com/marcotcr) | Google |
 ---
 Part of MVG-0.1-beta.
 Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
