@@ -6,6 +6,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | --- | --- | --- |
 | Ece Kamar | [ecekamar](https://github.com/ecekamar) | Microsoft |
 | Harsha Nori | [Harsha-Nori](https://github.com/Harsha-Nori) | Microsoft |
+| Michał Moskal | [mmoskal](https://github.com/mmoskal) | Microsoft |
 | Scott Lundberg | [slundberg](https://github.com/slundberg) | |
 | Marco Tulio Ribeiro | [marcotcr](https://github.com/marcotcr) | Google |
 ---
